@@ -72,17 +72,6 @@ Priority order ensures proper handling of overlapping actions:
 
 ---
 
-## 🧮 Grading Rubric Mapping
-| Criterion | Implementation | Points |
-|------------|----------------|--------|
-| **Functionality** | Jumping, running, attack/defend, physics | 2 pts |
-| **Animation Logic** | Frame timing, looping, transitions | 1.5 pts |
-| **Code Quality** | Modular design, clear methods, consistent comments | 1 pt |
-| **Creativity & Polish** | Camera follow, parallax background | 0.5 pts |
-| **Bonus (+2 pts)** | Implemented camera & scene system | ✅ Achieved |
-
----
-
 ## 🧰 Setup & Run Instructions
 
 ### Prerequisites
@@ -105,7 +94,7 @@ Priority order ensures proper handling of overlapping actions:
 
 ---
 
-## 🕹️ References
+## 🧮 References
 
 ## Character Sprite
 - https://craftpix.net/freebies/free-knight-character-sprites-pixel-art
